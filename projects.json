@@ -1,4 +1,124 @@
 {
   "version": 1,
-  "projects": []
+  "projects": [
+    {
+      "id": "japanese-speed-reader",
+      "title": "Japanese Speed Reader",
+      "description": "Find your reading rhythm with kana, N5 kanji and vocabulary. Try a timed sprint, settle into Flow mode, or revisit the words you missed.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "Beginner · N5",
+      "tags": [
+        "Reading",
+        "Kana",
+        "JLPT N5"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/kana.html"
+    },
+    {
+      "id": "kaizen",
+      "title": "Kaizen",
+      "description": "Turn your daily habits into a life RPG. Earn XP, build streaks, and grow six personal stats as you work toward your goals.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Productivity",
+      "language": "English",
+      "level": "All levels",
+      "tags": [
+        "Habits",
+        "Focus",
+        "Personal growth"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://kaizen.tabicuts.com/"
+    },
+    {
+      "id": "japanese-mastery",
+      "title": "Japanese Mastery",
+      "description": "Your starting point for learning Japanese: a collection of reading tools, study references and grammar practice, organised in one place.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "Beginner · N5",
+      "tags": [
+        "Learning hub",
+        "Japanese",
+        "Self-study"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/"
+    },
+    {
+      "id": "n5-study-guide",
+      "title": "N5 Study Guide",
+      "description": "Explore beginner kanji, vocabulary and grammar patterns. Search the reference, mark what you know, and keep track of your progress.",
+      "author": "Rayan · Tabicuts",
+      "type": "guide",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "JLPT N5",
+      "tags": [
+        "Kanji",
+        "Vocabulary",
+        "Grammar"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/n5-study.html"
+    },
+    {
+      "id": "particle-drill",
+      "title": "Particle Drill",
+      "description": "Get comfortable with は, が, に, で and を. Choose the right particle for each sentence and learn from immediate feedback.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "JLPT N5",
+      "tags": [
+        "Grammar",
+        "Particles",
+        "Practice"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/particle-drill.html"
+    },
+    {
+      "id": "sentence-scramble",
+      "title": "Sentence Scramble",
+      "description": "Make Japanese word order feel natural. Arrange words into sentences, starting with simple structures and building from there.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "JLPT N5",
+      "tags": [
+        "Sentences",
+        "Word order",
+        "Practice"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/sentence-scramble.html"
+    },
+    {
+      "id": "pattern-drill",
+      "title": "Pattern Drill",
+      "description": "Move from recognising a grammar pattern to using it. Practise N5 patterns through focused sentence-completion exercises.",
+      "author": "Rayan · Tabicuts",
+      "type": "project",
+      "subject": "Japanese",
+      "language": "English",
+      "level": "JLPT N5",
+      "tags": [
+        "Grammar",
+        "Sentence patterns",
+        "Practice"
+      ],
+      "license": "Free to use; see resource for reuse terms",
+      "source": "https://japanese.tabicuts.com/pattern-drill.html"
+    }
+  ]
 }
