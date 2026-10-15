@@ -1,0 +1,63 @@
+name: Propose a learning resource
+description: Share a project, PDF, Anki deck, guide, or another study resource.
+title: '[Resource] '
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Resource format
+      options: ['Project / tool', 'PDF', 'Anki deck', 'Guide', 'Course', 'Other']
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it teach, and who is it for?
+      description: Include subject, language, and level.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator and attribution
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public resource or instructions URL
+    validations:
+      required: true
+  - type: input
+    id: download
+    attributes:
+      label: Public download URL (required for PDFs and Anki decks)
+  - type: input
+    id: license
+    attributes:
+      label: License or reuse terms
+      placeholder: CC BY-NC-SA 4.0 for your own original study content
+    validations:
+      required: true
+  - type: textarea
+    id: permission
+    attributes:
+      label: Why do you have permission to share it?
+      description: Include permission for images, audio, or other components. Do not post private documents as evidence.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Before submitting
+      options:
+        - label: This is free to access, and I own it or have permission to share it.
+          required: true
+        - label: I understand this is a public proposal that needs review before publication.
+          required: true
