@@ -26,4 +26,4 @@ An app can be free to use while its source remains private. No contributor must 
 
 ## Publication
 
-A maintainer reviews proposals and catalogue changes. The private website importer then checks this repository periodically and proposes an update for owner review. After approval and deployment, the resource appears on the website. Checks are format validation, not approval of accuracy, safety, or copyright ownership. The catalogue is intentionally empty until real resources are reviewed.
+A maintainer reviews proposals and catalogue changes. The private website importer then checks this repository periodically and proposes an update for owner review. After approval and deployment, the resource appears on the website. Checks are format validation, not approval of accuracy, safety, or copyright ownership. The catalogue includes Tabicuts’ existing Japanese learning tools and Kaizen. New community resources follow the same review process.
